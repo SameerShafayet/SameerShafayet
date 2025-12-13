@@ -4,7 +4,7 @@
 ---
 
 ### 💼 Work & Interests
-- 🔭 Working software development industry 
+- 🔭 Working in the software development industry 
 - 🔭 Currently working on **AI projects**
 - 🌱 Learning **AI agents, LangChain & LangGraph**
 - 👯 Open to collaboration on:
