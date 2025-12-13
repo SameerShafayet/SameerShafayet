@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
-<h3 align="center">🎓 QA Engineer | AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
+<h3 align="center"> QA Engineer | AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
 
 <h3 align="left">🎓 Education</h3>
 
 <ul>
   <li>
-    <strong>Bachelor of Science (B.Sc.) in Computer Science & Engineering</strong><br>
+    <strong>Bachelors in CS</strong><br>
     Islamic University of Technology (IUT)<br>
     <em>Focus:</em> Computer Vision, Machine Learning, Artificial Intelligence
   </li>
