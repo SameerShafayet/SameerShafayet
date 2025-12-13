@@ -9,7 +9,7 @@
 - 🌱 Learning about **AI agents, LangChain & LangGraph**
 - 👯 Open to collaboration on:
   - Visual Question Answering (VQA)
-  - Vision–Language Models (VLMs)
+  - Vision-Language Models (VLMs)
   - Large Language Models (LLMs)
   - Computer Vision & Natural Language Processing
 
