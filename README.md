@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
-<h3 align="center">A passionate AI researcher</h3>
+<h3 align="center">🎓 AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
 
 - 🔭 I’m currently working on **different AI projects**
 
