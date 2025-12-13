@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
 <h3 align="center"> QA Engineer | AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
 
-- I’m passionate about building and analyzing intelligent systems that connect vision and language, with a strong focus on robustness and real‑world reliability.
+---
 
-- 🔭 I’m currently working on **different AI projects**
+### 💼 Work & Interests
+- 🔭 Currently working on **AI research and applied AI projects**
+- 🌱 Learning **AI agents, LangChain & LangGraph**
+- 👯 Open to collaboration on:
+  - Visual Question Answering (VQA)
+  - Vision–Language Models (VLMs)
+  - Large Language Models (LLMs)
+  - Computer Vision & Natural Language Processing
 
-- 🌱 I’m currently learning **about AI agents, Langchain & LangGraph**
-
-- 👯 I’m looking to collaborate on **research related to Visual Question Answering, VLMs, LLMs, topics related to CV & NLP**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
