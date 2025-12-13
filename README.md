@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
-<h3 align="center">🎓 AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
+<h3 align="center">🎓 QA Engineer | AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
 
 - I’m passionate about building and analyzing intelligent systems that connect vision and language, with a strong focus on robustness and real‑world reliability.
 
