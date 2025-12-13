@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
 <h3 align="center">🎓 QA Engineer | AI Researcher | 🤖 Computer Vision & NLP Enthusiast</h3>
 
+<h3 align="left">🎓 Education</h3>
+
+<ul>
+  <li>
+    <strong>Bachelor of Science (B.Sc.) in Computer Science & Engineering</strong><br>
+    Islamic University of Technology (IUT)<br>
+    <em>Focus:</em> Computer Vision, Machine Learning, Artificial Intelligence
+  </li>
+</ul>
+
 - I’m passionate about building and analyzing intelligent systems that connect vision and language, with a strong focus on robustness and real‑world reliability.
 
 - 🔭 I’m currently working on **different AI projects**
