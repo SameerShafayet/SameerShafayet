@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about AI agents, Langchain & LangGraph**
 
-- 👯 I’m looking to collaborate on **reseach related to Visual Question Answering, VLMs, VLM Robustness, topics related to CV & NLP**
+- 👯 I’m looking to collaborate on **research related to Visual Question Answering, VLMs, VLM Robustness, LLMs, topics related to CV & NLP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
