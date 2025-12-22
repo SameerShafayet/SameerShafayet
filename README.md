@@ -5,7 +5,7 @@
 
 ### 💼 Work & Interests
 - 🔭 Working in the software development industry 
-- 🌱 Learning about **AI agents, LangChain & LangGraph**
+- 🌱 Learning about **AI agents, Agentic Workflows**
 - 👯 Open to collaboration on:
   - Visual Question Answering (VQA)
   - Vision-Language Models (VLMs)
