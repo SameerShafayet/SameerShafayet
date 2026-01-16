@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
-<h3 align="center"> Software Engineer | AI Enthusiast</h3>
+<h3 align="center"> Software Engineer </h3>
 
 ---
 
 ### 💼 Work & Interests
 - 🔭 Working in the software development industry 
-- 🌱 Learning about **AI agents, Agentic Workflows**
+- 🌱 Learning about system design, AI, system security
 - 👯 Open to collaboration on:
   - Visual Question Answering (VQA)
   - Vision-Language Models (VLMs)
