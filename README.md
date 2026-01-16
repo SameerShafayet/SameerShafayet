@@ -5,7 +5,7 @@
 
 ### 💼 Work & Interests
 - 🔭 Working in the software development industry 
-- 🌱 Learning about system design, AI, system security
+- 🌱 Learning about system design, system security & AI
 - 👯 Open to collaboration on:
   - Visual Question Answering (VQA), Vision-Language Models (VLMs), Large Language Models (LLMs), Computer Vision & Natural Language Processing
 ---
