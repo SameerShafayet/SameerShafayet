@@ -6,7 +6,7 @@
 ### 💼 Work & Interests
 - 🔭 Working in the software development industry 
 - 🌱 Learning about system design, system security & AI
-- 
+
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank">
