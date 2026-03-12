@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Shafayet</h1>
-<h3 align="center"> Software Engineer </h3>
-
 ---
 
-### 💼 Work & Interests
+### Work & Interests
 - Working in the software development industry 
 - Learning about system design, system security & AI
 
